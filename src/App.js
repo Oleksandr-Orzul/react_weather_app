@@ -14,7 +14,7 @@ function App() {
             open-sourcedon GitHub
           </a>
           and
-          <a href="https://github.com/Oleksandr-Orzul/react_weather_app">
+          <a href="https://sunny-chaja-be11fd.netlify.app/">
             hosted on Netlify
           </a>
         </p>
