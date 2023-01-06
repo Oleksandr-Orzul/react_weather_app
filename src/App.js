@@ -9,7 +9,14 @@ function App() {
         <p className="aboutDeveloper">
           This project was coded by{" "}
           <a href="https://github.com/Oleksandr-Orzul">Oleksandr Orzul</a> and
-          is <a href="">open-sourcedon GitHub</a>
+          is{" "}
+          <a href="https://github.com/Oleksandr-Orzul/react_weather_app">
+            open-sourcedon GitHub
+          </a>
+          and
+          <a href="https://github.com/Oleksandr-Orzul/react_weather_app">
+            hosted on Netlify
+          </a>
         </p>
       </div>
     </div>
